@@ -4,39 +4,75 @@
 
 ## Overview
 
-This is a weather system practice project in UE5.
+This project is a UE5 real-time weather and environment system developed as a Technical Artist practice project.
 
-The project is focused on learning environment systems and material workflows.
+The goal is to explore environment rendering workflows, procedural materials, landscape systems, and real-time weather effects.
 
 ---
 
 ## Current Features
 
-### Environment Systems
+### 🌗 Dynamic Day/Night Cycle System
+- Real-time lighting transition
+- Environment atmosphere control
 
-- 🌗 Dynamic Day/Night Cycle System
+---
 
-- ☁️ Cloud System (2D Cloud Material + Volumetric Cloud)
+### ☁️ Cloud System
+- 2D Cloud Material System
+- Volumetric Cloud System
 
-### Material Systems
+---
 
-- 🧩 Texture Anti-Repetition System
+### 🧩 Texture Anti-Repetition System
 
-  - Triplanar Projection
-  - Texture Bombing
-  - Landscape Material Layer Processing
+Solutions for reducing visible texture tiling in large environments.
+
+Implemented:
+
+- Triplanar Projection
+- Texture Bombing
+
+---
+
+### 🏔️ Procedural Landscape Material System
+
+A procedural landscape material that automatically adapts terrain appearance based on surface conditions.
+
+Features:
+
+- Automatic slope detection
+- Ground / slope material separation
+- Procedural layer blending
+
+Current Layers:
+
+- Ground Layer
+- Slope Layer
 
 ---
 
 ## In Progress
 
-- ❄️ Snow system
+### ❄️ Snow system
+Planned features:
 
-- 🌧️ Rain system
+- Dynamic snow accumulation
+- Environment snow coverage
+- Interactive footprints
+- Snowfall particle system
 
-- 🌫️ Fog system
+---
 
-- ⚙️ Optimization
+### 🌧️ Rain system
+
+---
+
+### 🌫️ Fog system
+
+---
+
+### ⚙️ Optimization
 
 ---
 
@@ -56,4 +92,11 @@ The project is focused on learning environment systems and material workflows.
 
 ## Goal
 
-To develop practical Technical Artist skills by building real-time environment systems, procedural materials, and rendering solutions in UE5.
+To develop practical Technical Artist skills by creating real-time environment systems, procedural materials, and rendering solutions in Unreal Engine.
+
+The project focuses on:
+
+- Environment Technical Art
+- Shader and Material Development
+- Procedural Workflows
+- Real-time Rendering Optimization
