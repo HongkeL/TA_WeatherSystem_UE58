@@ -12,21 +12,23 @@ The project is focused on learning environment systems and material workflows.
 
 ## Current Features
 
-- 🌗 Day/Night Cycle System
+### Environment Systems
 
-- ☁️ Cloud System (2D + Volumetric)
+- 🌗 Dynamic Day/Night Cycle System
+
+- ☁️ Cloud System (2D Cloud Material + Volumetric Cloud)
+
+### Material Systems
 
 - 🧩 Texture Anti-Repetition System
+
+  - Triplanar Projection
+  - Texture Bombing
+  - Landscape Material Layer Processing
 
 ---
 
 ## In Progress
-
-- Triplanar Projection System (terrain UV fix)
-
----
-
-## Planned
 
 - ❄️ Snow system
 
@@ -46,8 +48,12 @@ The project is focused on learning environment systems and material workflows.
 
 - Blueprint
 
+- Obsidian
+
+- Git / GitHub
+
 ---
 
 ## Goal
 
-To practice building a real-time environment system and improve my Technical Artist skills.
+To develop practical Technical Artist skills by building real-time environment systems, procedural materials, and rendering solutions in UE5.
