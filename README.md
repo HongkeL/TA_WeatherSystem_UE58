@@ -52,9 +52,12 @@ Current Layers:
 
 ---
 
-## In Progress
-
 ### ❄️ Snow system
+
+Implemented:
+
+- Snowy / Sunny lighting environment switching
+
 Planned features:
 
 - Dynamic snow accumulation
@@ -63,6 +66,8 @@ Planned features:
 - Snowfall particle system
 
 ---
+
+## In Progress
 
 ### 🌧️ Rain system
 
