@@ -57,11 +57,12 @@ Current Layers:
 Implemented:
 
 - Snowy / Sunny lighting environment switching
+- Snow material blending with existing landscape layers
+- Dynamic landscape appearance transition between snowy and normal weather states
 
 Planned features:
 
 - Dynamic snow accumulation
-- Environment snow coverage
 - Interactive footprints
 - Snowfall particle system
 
