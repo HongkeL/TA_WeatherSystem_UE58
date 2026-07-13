@@ -59,11 +59,11 @@ Implemented:
 - Snowy / Sunny lighting environment switching
 - Snow material blending with existing landscape layers
 - Dynamic landscape appearance transition between snowy and normal weather states
+- Interactive footprints
 
 Planned features:
 
 - Dynamic snow accumulation
-- Interactive footprints
 - Snowfall particle system
 
 ---
