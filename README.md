@@ -55,7 +55,6 @@ Implemented:
 
 - Snowy / Sunny lighting environment switching
 - Snow material blending with existing landscape layers
-- Dynamic landscape appearance transition
 - Interactive footprints
 - Niagara-based footprint fading effect
 
