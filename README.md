@@ -1,5 +1,7 @@
 # Unreal Engine 5 Weather System（Technical Artist Practice Project）
 
+<img width="1906" height="1163" alt="image" src="https://github.com/user-attachments/assets/aa305197-951f-497c-990b-401e7e846455" />
+
 ---
 
 ## Overview
@@ -32,39 +34,34 @@ Implemented:
 
 - Triplanar Projection
 - Texture Bombing
+- UV variation for large-scale terrain
 
 ---
 
-### 🏔️ Procedural Landscape Material System
-
-A procedural landscape material that automatically adapts terrain appearance based on surface conditions.
+### 🏔️ Procedural Landscape Material
 
 Features:
 
 - Automatic slope detection
-- Ground / slope material separation
-- Procedural layer blending
-
-Current Layers:
-
-- Ground Layer
-- Slope Layer
+- Material blending by terrain angle
+- Procedural landscape layering
+- Snow layer integration
 
 ---
 
-### ❄️ Snow system
+### ❄️ Snow Material System
 
 Implemented:
 
 - Snowy / Sunny lighting environment switching
 - Snow material blending with existing landscape layers
-- Dynamic landscape appearance transition between snowy and normal weather states
 - Interactive footprints
+- Niagara-based footprint fading effect
 
-Planned features:
+Planned:
 
-- Dynamic snow accumulation
 - Snowfall particle system
+- Dynamic snow accumulation on landscape and static meshes
 
 ---
 
