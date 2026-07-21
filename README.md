@@ -65,18 +65,28 @@ Implemented:
 - Niagara-based footprint fading effect
 - Camera-based snowfall particle spawning
 - Optimized snow particle generation within camera view
+- Dynamic snow accumulation over time
+- Blueprint-driven snow parameter control
 
-Planned:
+---
 
-- Dynamic snow accumulation on landscape and static meshes
+### 🌨️ Weather Interaction System
+
+Implemented:
+
+- Runtime weather state switching
+- Snow particle activation based on weather condition
+- Blueprint-controlled Niagara parameters
+- Dynamic environment response during snowfall
 
 ---
 
 ### 🌫️ Environmental VFX
 Implemented:
 
-- Niagara snow particle system
-- Atmospheric smoke / mist effects for snowy environments
+- Niagara-based snowfall particle system
+- Atmospheric smoke effects for snowy environments
+- Runtime-controlled weather VFX parameters
 
 ---
 
